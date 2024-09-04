@@ -8,6 +8,17 @@
 
 🚀 Vamos trocar ideias e crescer juntos nessa jornada de dados! Se precisar de ajuda ou quiser trocar experiências, fique à vontade para me chamar.
 
+📫 Vou adorar receber seu contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianolcp/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dslucianopinto@gmail.com)
+
+## Certificados:
+
+<img src="Decisões de Negócios.png" alt="Decisões de Negócios" width="300"/>
+<img src="SQL.png" alt="SQL" width="300"/>
+<img src="Asp Cientista de dados.png" alt="Cientista de Dados Aspirante" width="300"/>
+
 
 <!--
 **lucianolcp/lucianolcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
