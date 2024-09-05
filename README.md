@@ -24,9 +24,9 @@
 | **Projeto**            | **Link**                          | **Linguagem** | **Observação**           |
 |------------------------|-----------------------------------|---------------|--------------------------|
 | *Projeto OilyGiant*    | [Aprendizado Automático para os Negócios](Projetos/Sprint_10_Aprendizado_Automático_para_os_Negócios.ipynb)  | Python        |  Encontrar os melhores lugares para o desenvolvimento de novos poços de petróleo.  |
-| *Proteja Seu Amanhã*     | [Álgebra Linear](Projetos/Sprint_11_Álgebra_Linear.ipynb)  | Python             | Aprendizado de máquina para companhia de seguros Proteja Seu Amanhã         |
-| *Rusty Bargain*     | [Métodos Numéricos](Projetos/Sprint_12_Métodos_Numéricos.ipynb)  | Python           | Determinar valores de mercado para carros de novos clientes da Rusty Bargain      |
-
+| *Proteja Seu Amanhã*     | [Álgebra Linear](Projetos/Sprint_11_Álgebra_Linear.ipynb)  | Python             | Implementação de métodos de aprendizado de máquina com álgebra linear para a companhia de seguros Proteja Seu Amanhã, com foco em: encontrar clientes semelhantes, prever pagamentos de seguro e quantidade de pagamentos com modelos de regressão, e aplicar técnicas de ofuscação de dados para proteger a privacidade sem afetar a eficácia dos modelos        |
+| *Rusty Bargain*     | [Métodos Numéricos](Projetos/Sprint_12_Métodos_Numéricos.ipynb)  | Python (LightGBM, Scikit-Learn, Pandas)           | Aplicação de métodos numéricos e algoritmos de Machine Learning, como LightGBM, Floresta Aleatória e Gradient Boosting, para a previsão eficiente do valor de mercado de veículos, utilizando a métrica REQM para medir a acurácia do modelo.      |
+| *Sweet Lift Taxi*     | [Séries Temporais](Projetos/Sprint_12_Métodos_Numéricos.ipynb)  | Python (Statsmodels, Facebook Prophet, TensorFlow/Keras)           | Modelagem de séries temporais com Machine Learning para previsão de demanda de táxi.      |  
 
 <!--
 **lucianolcp/lucianolcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
