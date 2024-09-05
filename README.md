@@ -15,9 +15,17 @@
 
 ## Certificados:
 
-<img src="Decisões de Negócios.png" alt="Decisões de Negócios" width="300"/>
-<img src="SQL.png" alt="SQL" width="300"/>
-<img src="Asp Cientista de dados.png" alt="Cientista de Dados Aspirante" width="300"/>
+<img src="Certificados/Decisões de Negócios.png" alt="Decisões de Negócios" width="300"/>
+<img src="Certificados/SQL.png" alt="SQL" width="300"/>
+<img src="Certificados/Asp Cientista de dados.png" alt="Cientista de Dados Aspirante" width="300"/>
+
+## Confira alguns dos meus projetos:
+
+| **Projeto**            | **Link**                          | **Linguagem** | **Observação**           |
+|------------------------|-----------------------------------|---------------|--------------------------|
+| *Projeto OilyGiant*    | [Aprendizado Automático para os Negócios](Projetos/Sprint_10_Aprendizado_Automático_para_os_Negócios.ipynb)  | Python        |  Encontrar os melhores lugares para o desenvolvimento de novos poços de petróleo.  |
+| *Proteja Seu Amanhã*     | [Álgebra Linear](Projetos/Sprint_11_Álgebra_Linear.ipynb)  | Python             | Aprendizado de máquina para companhia de seguros Proteja Seu Amanhã         |
+| *Rusty Bargain*     | [Métodos Numéricos](Projetos/Sprint_12_Métodos_Numéricos.ipynb)  | Python           | Determinar valores de mercado para carros de novos clientes da Rusty Bargain      |
 
 
 <!--
