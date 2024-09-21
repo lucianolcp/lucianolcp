@@ -18,6 +18,7 @@
 <img src="Certificados/Decisões de Negócios.png" alt="Decisões de Negócios" width="300"/>
 <img src="Certificados/SQL.png" alt="SQL" width="300"/>
 <img src="Certificados/Asp Cientista de dados.png" alt="Cientista de Dados Aspirante" width="300"/>
+<img src="Certificados/Aprendizado de maquina.png" alt="Mestre do Aprendizado de Máquina" width="300"/>
 
 ## Confira alguns dos meus projetos:
 
