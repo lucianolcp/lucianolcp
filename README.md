@@ -2,7 +2,7 @@
 
 👋 Olá! Eu sou o Luciano da Cunha Pinto, graduado em Administração e Engenharia Civil, com ampla experiência na área de projetos de construção civil e 10 anos de atuação em QA (Quality Assurance). Sempre fui apaixonado por matemática e estatística, durante minha trajetória em QA, desenvolvi um grande interesse por dados, o que me levou a explorar a área de Ciência de Dados.
 
-💡 Me especializei em **Ciência de Dados**, **Modelagem preditiva** e técnicas de **Machine learning**, além de possuir conhecimentos avançados nas principais ferramentas e bibliotecas da área, como **Python** (Pandas, Numpy, Scikit-learn, LightGBM, Statsmodels ...), **SQL** e **Tableau**. Estou sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
+💡 Me especializei em **Ciência de Dados**, **Modelagem preditiva** e técnicas de **Machine learning**, além de possuir conhecimentos avançados nas principais linguagens ferramentas e bibliotecas da área, como **Python** (Pandas, Numpy, Scikit-learn, LightGBM, Statsmodels ...), **SQL** e **Tableau**. Estou sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
 
 📊 Estou empolgado para colocar em prática meus conhecimentos na área de Dados e contribuir para projetos desafiadores. Além disso, possuo inglês avançado, o que me ajuda a colaborar em ambientes internacionais e acessar conteúdos técnicos de ponta.
 
