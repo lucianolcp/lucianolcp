@@ -1,14 +1,14 @@
 ## Boas-vindas!!
 
-👋 Olá! Eu sou o Luciano da Cunha Pinto, graduado em Administração e Engenharia Civil, com ampla experiência na área de projetos de engenharia e 10 anos de atuação em QA (Quality Assurance). Sempre fui apaixonado por matemática e estatística, durante minha trajetória em QA, desenvolvi um grande interesse por dados, o que me levou a explorar a área de Ciência de Dados.
+👋 Olá! Eu sou o Luciano da Cunha Pinto, graduado em Administração e Engenharia Civil, com ampla experiência em **Quality Assurance (QA)** e projetos de engenharia. Atuo há mais de 10 anos na área de **QA**, onde desenvolvi um olhar analítico e foco em automação de testes, auditoria de dados e otimização de processos.  
 
-💡 Me especializei em **Ciência de Dados** como um dos melhores da minha turma, com ênfase em **Modelagem preditiva** e técnicas de **Machine learning**. Possuo conhecimentos e experiência prática nas principais linguagens, ferramentas e bibliotecas da área, como **Python** (Pandas, Numpy, Scikit-learn, LightGBM, Statsmodels ...), **SQL** e **Tableau**. Estou sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
+💡 Durante minha trajetória, aprofundei meus conhecimentos em **Ciência de Dados e Inteligência Artificial**, aplicando técnicas de **modelagem preditiva, aprendizado de máquina e estatística** para aprimorar processos de qualidade e tomada de decisão. Tenho experiência prática com **Python** (Pandas, NumPy, Scikit-learn, LightGBM, Statsmodels...), **SQL**, **Cypress, Selenium e PyTest**, além de ferramentas de visualização como **Tableau e Power BI**.  
 
-📊 Adoro colocar em prática meus conhecimentos na área de Dados e contribuir para projetos desafiadores. Além disso, possuo inglês avançado, o que me ajuda a colaborar em ambientes internacionais e acessar conteúdos técnicos de ponta.
+📊 Gosto de explorar soluções inovadoras para garantir a qualidade de produtos e processos, utilizando tecnologia e automação como aliadas. Meu inglês avançado me permite atuar em ambientes internacionais e acessar conteúdos técnicos de ponta.  
 
-🚀 Vamos trocar ideias e crescer juntos nessa jornada de dados! Se precisar de ajuda ou quiser trocar experiências, fique à vontade para me chamar.
+🚀 Vamos trocar ideias e crescer juntos nessa jornada de tecnologia e dados! Se precisar de ajuda ou quiser compartilhar experiências, fique à vontade para me chamar.  
 
-📫 Vou adorar receber seu contato:
+📫 **Vou adorar receber seu contato:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianolcp/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dslucianopinto@gmail.com)
